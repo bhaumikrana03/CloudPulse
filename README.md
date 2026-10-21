@@ -2,8 +2,6 @@
 
 A real-time load balancer console. A Node.js backend runs the scheduling engine, and a plain HTML, CSS and JavaScript dashboard shows it live, so you can watch traffic spread across servers and control them as an administrator.
 
-![Dashboard](docs/dashboard.png)
-![Login](docs/login.png)
 
 ## Features
 
