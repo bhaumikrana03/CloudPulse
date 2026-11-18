@@ -144,7 +144,7 @@ Tables: `users`, `servers`, `requests`, `metric_snapshots`, `events`, `algorithm
 |---|---|---|
 | Abhinav Dubey | 25293916004 | Backend and API |
 | Bhaumik Rana  | 25293916025 | Backend and API |
-| Khush Chauhan | 25293916049 | Testing and Frontend |
+| Khush Chauhan | 25293916049 | Testing and Frontend|
 
 ## Repository
 
