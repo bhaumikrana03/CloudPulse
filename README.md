@@ -1,4 +1,4 @@
-# CloudPulse
+# CloudPulse. 
 
 **A real-time cloud load balancer console.** A Node.js backend runs the scheduling engine, and a live web dashboard shows server load and lets an administrator control the servers. Built for the *Analysis and Design of Algorithms* course.
 
