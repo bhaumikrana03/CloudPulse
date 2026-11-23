@@ -79,7 +79,12 @@ Dashboard on port **3000**, API on port **5001**.
 
 ### Deploy
 
-Can be hosted on Render as a single service.
+Hosted on netlify:
+https://magenta-torrone-a65a07.netlify.app/login.html
+
+### Login Credentials
+Username : admin
+Password : 1234
 
 ### Run the tests
 
@@ -146,6 +151,4 @@ Tables: `users`, `servers`, `requests`, `metric_snapshots`, `events`, `algorithm
 | Bhaumik Rana  | 25293916025 | Backend and API |
 | Khush Chauhan | 25293916049 | Testing and Frontend|
 
-## Repository
-
-<https://github.com/bhaumikrana03/CloudPulse>
+# Thankyou
